@@ -1250,7 +1250,8 @@ textarea:focus-visible {
     left: 103px;
   }
 
-  .aside-title-link:hover, .name-theme:hover {
+  .aside-title-link:hover,
+  .name-theme:hover {
     color: #b59f5b;
   }
 
@@ -1259,18 +1260,14 @@ textarea:focus-visible {
     background-color: #f4f7f6;
   }
 
-  .search-button:hover {
+  .search-button:hover,
+  .mailing-button:hover {
     background-color: #323232;
     cursor: pointer;
   }
 
   .mailing {
     margin-top: 57px;
-  }
-
-  .mailing-button:hover {
-    background-color: #323232;
-    cursor: pointer;
   }
 
   .tags {
