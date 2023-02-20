@@ -1270,6 +1270,7 @@ textarea:focus-visible {
 
   .mailing-button:hover {
     background-color: #323232;
+    cursor: pointer;
   }
 
   .tags {
